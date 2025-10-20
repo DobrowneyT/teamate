@@ -1,2 +1,2 @@
 # teamate
-TeaMate - The ultimate tea steeping robot!
+TeaMate - The Ultimate Tea Steeping Robot!
